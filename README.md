@@ -14,9 +14,10 @@ Projects and new Applications
 emmanuelwangila/emmanuelwangila is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![nodejs](https://user-images.githubusercontent.com/79250258/225387569-49342f9e-7a19-4914-b4d9-fb531a901358.png)
-![python](https://user-images.githubusercontent.com/79250258/225387580-c6d043a7-8c68-4578-89e3-bb47ad6987d5.png)
-![django](https://user-images.githubusercontent.com/79250258/225387588-5cb21d7f-5b5c-41cc-a967-9fe965be27b9.png)
-![react](https://user-images.githubusercontent.com/79250258/225387592-6fc9916c-533f-4060-a2ae-d67ca6041d5a.png)
-![html5](https://user-images.githubusercontent.com/79250258/225387594-c2b0bd9b-f49b-473b-aaca-ef6f4fc63ae5.png)
-![javascript](https://user-images.githubusercontent.com/79250258/225387598-cd3d2ce0-4e55-4fe3-9d9c-6e1d161f7b41.png)
+
+![django (1)](https://user-images.githubusercontent.com/79250258/225388700-c36b48e9-fa88-46f5-9320-6191932e926c.png)
+![html5 (1)](https://user-images.githubusercontent.com/79250258/225388721-24756767-3c3e-46cb-bc31-aeca8a5bde36.png)
+![react (1)](https://user-images.githubusercontent.com/79250258/225388722-a16307fb-da45-4478-b5d5-5a7bee18d6c2.png)
+![git](https://user-images.githubusercontent.com/79250258/225389449-ff097d0b-c1c8-447d-a5f5-eb3ad6fbf946.png)
+![python (1)](https://user-images.githubusercontent.com/79250258/225389468-3e2a4c54-510a-49fc-9599-b556f3065582.png)
+![javascript (1)](https://user-images.githubusercontent.com/79250258/225389473-53b0fca8-6e73-4d3f-9ee6-8a140a1e2f79.png)
