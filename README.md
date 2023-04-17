@@ -14,7 +14,7 @@ Projects and new Applications
 emmanuelwangila/emmanuelwangila is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Digital Resume https:emmanuelwangila.github.io/Resume-website/
+Digital Resume emmanuelwangila.github.io/Resume-website/
 
 
 ![django (1)](https://user-images.githubusercontent.com/79250258/225388700-c36b48e9-fa88-46f5-9320-6191932e926c.png)
