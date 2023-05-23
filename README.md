@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 <div>About Me</div>
 <div> I'm an aspiring software developer, doing both front-end
 and back-end technlogies, passionate about soffware engineering</div>
-<p>Find me at </p> <a href="emmanuelwangila1@gmail.com">emmanuelwangila</a> 
+<p>Find me at </p> <a href="https:/emmanuelwangila1@gmail.com">emmanuelwangila</a> 
 
 
 
