@@ -19,13 +19,33 @@ and back-end technlogies,</br> passionate about soffware engineering</div>
 <p>Find me at </p> <a href="https:/emmanuelwangila1@gmail.com">emmanuelwangila1@gmail.com</a> 
 
 
+            
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+            
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
+         
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+          
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original-wordmark.svg" />
+          
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
+          
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
+          
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+          
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
+          
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+          
+            
+          
+            
+          
 
 
 
 
-![django (2)](https://user-images.githubusercontent.com/79250258/225388700-c36b48e9-fa88-46f5-9320-6191932e926c.png)
-![html5 (1)](https://user-images.githubusercontent.com/79250258/225388721-24756767-3c3e-46cb-bc31-aeca8a5bde36.png)
-![react (1)](https://user-images.githubusercontent.com/79250258/225388722-a16307fb-da45-4478-b5d5-5a7bee18d6c2.png)
-![git](https://user-images.githubusercontent.com/79250258/225389449-ff097d0b-c1c8-447d-a5f5-eb3ad6fbf946.png)
-![python (1)](https://user-images.githubusercontent.com/79250258/225389468-3e2a4c54-510a-49fc-9599-b556f3065582.png)
-![javascript (1)](https://user-images.githubusercontent.com/79250258/225389473-53b0fca8-6e73-4d3f-9ee6-8a140a1e2f79.png)
+
+
+
