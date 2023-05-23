@@ -23,7 +23,7 @@ and back-end technlogies,</br> passionate about soffware engineering</div>
 
 
 
-![django (1)](https://user-images.githubusercontent.com/79250258/225388700-c36b48e9-fa88-46f5-9320-6191932e926c.png)
+![django (2)](https://user-images.githubusercontent.com/79250258/225388700-c36b48e9-fa88-46f5-9320-6191932e926c.png)
 ![html5 (1)](https://user-images.githubusercontent.com/79250258/225388721-24756767-3c3e-46cb-bc31-aeca8a5bde36.png)
 ![react (1)](https://user-images.githubusercontent.com/79250258/225388722-a16307fb-da45-4478-b5d5-5a7bee18d6c2.png)
 ![git](https://user-images.githubusercontent.com/79250258/225389449-ff097d0b-c1c8-447d-a5f5-eb3ad6fbf946.png)
