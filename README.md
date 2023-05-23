@@ -19,7 +19,10 @@ and back-end technlogies,</br> passionate about soffware engineering</div>
 <p>Find me at </p> <a href="https:/emmanuelwangila1@gmail.com">emmanuelwangila1@gmail.com</a> 
 
 
-            
+            <html>
+            <head></head>
+            <title>Stack</title>
+            <body>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
             
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
@@ -38,6 +41,11 @@ and back-end technlogies,</br> passionate about soffware engineering</div>
           
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
           
+            
+            
+            </body>
+            </html>
+            
             
           
             
