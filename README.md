@@ -23,7 +23,7 @@ and back-end technlogies,</br> passionate about soffware engineering</div>
 <head></head>
 <title>Stack</title>
 <body>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="100" height="100" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="150" height="150" />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
 
