@@ -6,15 +6,20 @@ Building responsive Websites
 Node JS Express 
 - 💞️ I’m looking to collaborate on ..start Ups and Building
 Projects and new Applications 
-- 📫 How to reach me ...
- emmanuelwangila1@gmail.com
-0798719417
+
 
 <!---
 emmanuelwangila/emmanuelwangila is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h2> Software Developer </h2>
+<h1 class="color-blue font-bold"> Software Developer </h1>
+<div>About Me</div>
+<div> I'm an aspiring software developer, doing both front-end
+and back-end technlogies, passionate about soffware engineering</div>
+<p>Find me at <a href="emmanuelwangila1@gmail.com"></a> </p>
+
+
+
 
 
 
