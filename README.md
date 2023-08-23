@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emmanuel Wangila</h1>
-<h3 align="center">Full Stack Developer from Nairobi, Kenya</h3>
+<h3 align="center">Full Stack Developer from Nairobi </h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emmanuelwangila" alt="emmanuelwangila" /></a> </p>
 
