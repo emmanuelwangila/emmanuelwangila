@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/emmanuelwangi17" target="blank"><img src="https://img.shields.io/twitter/follow/emmanuelwangi17?logo=twitter&style=for-the-badge" alt="emmanuelwangi17" /></a> </p>
 
+<a href="https://app.daily.dev/emmanuelwangila1"><img src="https://api.daily.dev/devcards/26c6d24c604b405b95745bf52e893976.png?r=irb" width="400" alt="Emmanuel Wangila's Dev Card"/></a>
+
 - 🌱 I’m currently learning **Flutter,**
 
 - 👯 I’m looking to collaborate on **Open-Source**
