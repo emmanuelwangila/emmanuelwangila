@@ -12,7 +12,7 @@
 - 👯 I’m looking to collaborate on **Open-Source**
 
 - 💬 Ask me about **React, Vue, NEXT JS**
-- Portfolio  <p align="left"> <a href="https://emmanuelwangiladev.vercel.app/"></a> </p>
+- Portfolio   emmanuelwangiladev.vercel.app
 
 - 📫 How to reach me **emmanuelwangila1@gmail.com**
 
