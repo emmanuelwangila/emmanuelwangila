@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **emmanuelwangila1@gmail.com**
 
- <h2 align="center">My Portfolio <a href='https://emmanuelwangiladev.vercel.app/'><a/></h2>
+ <h2 align="center"><a href='https://emmanuelwangiladev.vercel.app/'><a/> My Portfolio </h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
