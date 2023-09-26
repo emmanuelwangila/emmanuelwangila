@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **React, Vue, NEXT JS**
 
-- 📫 How to reach me **emmanuelwangila1@gmail.com**
+- 📫 How to reach me **emmanuelwangila1@gmail.com** https://emmanuelwangiladev.vercel.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
