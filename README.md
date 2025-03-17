@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning **React-Native,**
+
 
 - 👯 I’m looking to collaborate on **Open-Source**
 
