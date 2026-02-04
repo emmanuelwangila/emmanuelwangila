@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Open-Source**
 
-- 💬 Ask me about **React, Vue, Spring Boot | Java EE | Node Js , Dj'ango  NEXT JS , PHP, Laravel , Python , C#**
+- 💬 Ask me about **React, Vue, Spring Boot | Java EE | Kotlin | Node Js , Dj'ango  NEXT JS , PHP, Laravel , Python , C#**
 - Portfolio   https://emmanuelwangiladev.vercel.app
 
 - 📫 How to reach me **emmanuelwangila1@gmail.com**
